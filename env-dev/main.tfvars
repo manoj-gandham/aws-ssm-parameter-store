@@ -15,7 +15,7 @@ parameters = [
   { name = "dev.cart_port", value = "8080"},
   { name = "dev.shipping.cart_endpoint", value = "cart-dev.mdevops333.online:8080"},
   { name = "dev.shipping.db_host", value = "mysql-dev.mdevops333.online"},
-  { name = "dev.shipping.db_host", value = "root"},
+  { name = "dev.shipping.db_user", value = "root"},
   { name = "dev.shipping.db_pass", value = "RoboShop@1"}
 
 ]
